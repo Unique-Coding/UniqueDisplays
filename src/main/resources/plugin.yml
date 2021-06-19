@@ -1,0 +1,5 @@
+name: UniqueDisplays
+version: 1.0
+main: de.uniquecoding.uniquedisplays.UniqueDisplays
+api-version: 1.16
+authors: [ rexlNico ]
